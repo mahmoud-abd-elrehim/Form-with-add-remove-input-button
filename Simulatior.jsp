@@ -4,7 +4,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 <link rel="shortcut icon" href="">
 <meta http-equiv="Content-Type"
 	content="text/html; charset=windows-1256">
@@ -127,6 +127,6 @@
 !-- Latest compiled and minified JavaScript -->
 <script   type="text/javascript" src="https://code.jquery.com/jquery-3.2.0.js"></script>
 <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript" src="scripts.js"></script>
 </body>
 </html>
